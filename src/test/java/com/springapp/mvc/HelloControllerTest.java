@@ -16,7 +16,6 @@ public class HelloControllerTest {
 		String returnView = new HelloController().printWelcome(model);
 		//then
 		assertThat(returnView, is("hello"));
-		assertThat(model.get("message").toString(), is("Hello world!"));
 
 	}
 }
