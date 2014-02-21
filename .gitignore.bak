@@ -1,0 +1,8 @@
+out/
+build/
+.gradle/
+springMvcWebApp_BlackJack.ipr
+springMvcWebApp_BlackJack.iws
+springMvcWebApp_BlackJack.iml
+.git
+.idea/
